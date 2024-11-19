@@ -1,0 +1,152 @@
+news_research_task:
+  description: >
+    Research and compile latest news and financial reports for each company in {company_names}:
+    1. Latest news from 2024 (max 50 articles per company)
+    2. Quarterly results from 2023/2024
+    3. Annual reports 2023/2024
+    4. Major company announcements
+    5. Market analyst reports
+
+    Focus on English language sources only.
+  expected_output: >
+    A comprehensive news analysis for each company including:
+    - Latest 2024 developments and announcements
+    - Key financial metrics from quarterly reports
+    - Major strategic initiatives
+    - Market analyst perspectives
+    - Organized by company and date
+    Format in markdown with clear sections per company.
+  agent: news_research_agent
+  output_file: outputs/company_news.md
+
+market_data_task:
+  description: >
+    Using yfinance, collect and analyze stock market data for {company_names}:
+    1. Download current stock data:
+       - Current stock price
+       - Daily Open, High, Low, Close prices
+       - Trading volume
+       - Market cap
+       - PE ratio
+
+    2. Retrieve and analyze 2-year historical data:
+       - Use ticker.history(period="2y")
+       - Track daily OHLC prices
+       - Monitor volume patterns
+       - Calculate moving averages
+
+    3. Identify key statistics:
+       - Highest price point with date
+       - Lowest price point with date
+       - Average trading volume
+       - Major price movements
+       - Significant volume spikes
+
+    4. Financial metrics:
+       - Basic financials using ticker.financials
+       - Stock actions (dividends/splits) using ticker.actions
+       - Balance sheet data
+       - Cash flow statements
+
+    5. Generate technical analysis:
+       - Price trend analysis
+       - Volume profile
+       - Support/resistance levels
+       - Moving average crossovers
+  expected_output: >
+    Detailed market analysis for each company including:
+    - Current trading data and key metrics
+    - Historical price analysis with specific dates
+    - Volume analysis and patterns
+    - Financial statement highlights
+    - Technical analysis insights
+    - Clear data tables showing:
+      * Daily price movements
+      * Volume trends
+      * Key price levels
+      * Financial ratios
+    Format with markdown tables and clear sections per company.
+  agent: market_data_analyst
+  output_file: outputs/market_data.md
+
+event_impact_task:
+  description: >
+    Analyze impact of 10 major global events since 01.10.2020 on {company_names}:
+    1. Search and identify significant events in the world like:
+       - US Presidential elections
+       - AI GPU market boom
+       - Global conflicts like war in Ukraine
+       - Financial market crises like 2008 financial crisis
+       - Tech sector developments like new AI models
+    2. For each event:
+       - Document exact date ranges
+       - Analyze stock price reactions
+       - Provide 2-line impact summary per company
+  expected_output: >
+    Event impact analysis including:
+    - Timeline of major events
+    - Stock price movements during each event
+    - Impact assessment for each company
+    - Comparative reaction analysis
+    Format with clear event timeline and impact summaries.
+  agent: event_impact_analyst
+  output_file: outputs/event_impact.md
+
+comparison_report_task:
+  description: >
+    Create comprehensive comparison report for {company_names}:
+    1. Compare financial metrics
+    2. Analyze relative stock performance
+    3. Evaluate market positions
+    4. Assess competitive advantages
+    5. Provide buy/hold/sell recommendations
+
+    Include detailed rationale for each recommendation.
+  expected_output: >
+    Final comparison report including:
+    - Company-by-company analysis
+    - Relative strength comparison
+    - Market position assessment
+    - Clear buy/hold/sell recommendations
+    - Supporting data and rationale
+    Format as professional investment report with executive summary.
+  agent: comparison_report_agent
+  output_file: reports/final_comparison.md
+
+future_prediction_task:
+  description: >
+    Create detailed future predictions for each company in {company_names}:
+    1. Analyze historical event impacts and patterns
+    2. Identify key growth and risk factors
+    3. Project future market positions
+    4. Evaluate technology and innovation potential
+    5. Assess competitive sustainability
+
+    For each company, provide:
+    - 5 specific future predictions
+    - Impact analysis of potential future events
+    - Growth/decline scenarios
+    - Strength/weakness projections
+    - Strategic recommendations
+
+    Use data from:
+    - Historical stock performance
+    - Past event impacts
+    - Market position analysis
+    - Technology/innovation assessment
+    - Competitive analysis
+  expected_output: >
+    Comprehensive future analysis report including:
+    - Company-specific predictions (5 per company)
+    - Event impact projections
+    - Growth potential assessment
+    - Risk factor analysis
+    - Strategic recommendations
+    Format with clear sections per company, including:
+    - Short-term predictions (1-2 years)
+    - Long-term outlook (3-5 years)
+    - Critical factors for success/failure
+    - Supporting data and rationale
+    Use markdown format with clear headings and bullet points.
+  agent: captain_future_agent
+  output_file: reports/future_predictions.md

@@ -1,0 +1,82 @@
+market_research_task:
+  description: >
+    Research and identify electricity providers in Germany that:
+    1. Serve private households in zip code {zip_code}
+    2. Offer cheapest tariffs in {current_year}
+    3. Have good reputation and financial stability
+    4. Have Ökostrom certificate
+
+    Create a list of the 20 most suitable providers based on these criteria.
+  expected_output: >
+    A detailed list of qualified electricity providers with:
+    - Provider name and basic information
+    - Confirmation of service for zip code {zip_code}
+    - Special qualifications for Ökostrom certificate
+    - Market reputation and stability indicators
+    - Initial overview of tariff types offered
+    - exactly 20 providers must be named
+  agent: company_research_agent
+  output_file: outputs/qualified_providers.md
+
+tariff_analysis_task:
+  description: >
+    For each qualified provider, analyze their tariff structures in detail:
+    1. Basic household electricity tariffs
+    2. PV feed-in tariffs and conditions
+    3. EV charging special rates
+    4. Combined packages for PV + EV households
+    5. Contract durations and price guarantees
+    6. Additional fees and charges
+
+    Consider annual consumption of 4000-6000 kWh, typical PV generation patterns,
+    and regular EV charging needs.
+  expected_output: >
+    Detailed breakdown of each provider's relevant tariffs including:
+    - Base electricity rates (Grundpreis & Arbeitspreis)
+    - PV feed-in compensation rates
+    - EV charging special rates and times
+    - Contract terms and conditions
+    - All additional costs and fees
+  agent: tariff_specialist_agent
+  output_file: outputs/tariff_details.md
+
+comparison_task:
+  description: >
+    Perform comprehensive cost analysis for each suitable tariff combination:
+    1. Calculate total annual costs based on 4000-6000 kWh consumption
+    2. Factor in PV feed-in compensation
+    3. Include EV charging costs
+    4. Consider time-of-use benefits
+    5. Analyze contract flexibility and risks
+    6. Calculate potential savings scenarios
+  expected_output: >
+    Detailed cost comparison including:
+    - Annual cost projections for each tariff combination
+    - PV feed-in revenue calculations
+    - EV charging cost analysis
+    - Cost-benefit analysis of different contract durations
+    - Risk assessment of variable vs fixed rates
+    - Ranking of best options based on total cost
+  agent: comparison_agent
+  output_file: outputs/cost_analysis.md
+
+recommendation_task:
+  description: >
+    Create a comprehensive report for the family that:
+    1. Summarizes the best 10 tariff options available in zip code {zip_code}
+    2. Explains the advantages and disadvantages of each
+    3. Provides detailed cost breakdowns
+    4. Includes specific recommendations for their situation
+    5. Offers implementation steps
+    6. Highlights potential future considerations for {current_year}
+  expected_output: >
+    A clear, actionable report including:
+    - Executive summary of best options
+    - Detailed cost breakdowns and comparisons
+    - Specific recommendations based on family situation
+    - Implementation guide with focus on zip code {zip_code}
+    - Future considerations and flexibility options
+    - Clear next steps
+    Format in clear markdown with tables, bullet points, and highlighted key information.
+  agent: report_agent
+  output_file: reports/final_recommendations.md
