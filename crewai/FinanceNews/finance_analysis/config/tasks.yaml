@@ -19,6 +19,29 @@ news_research_task:
   agent: news_research_agent
   output_file: outputs/company_news.md
 
+social_sentiment_task:
+  description: >
+    Analyze social sentiment and corporate reputation for each company in {company_names}:
+    1. Collect employee satisfaction surveys from Glassdoor and LinkedIn
+    2. Monitor social media sentiment trends
+    3. Review workplace culture reports
+    4. Track layoff reports and their impact
+    5. Evaluate corporate social responsibility initiatives
+    6. Analyze product and service reviews
+
+    Focus on synthesizing data from credible sources to provide a comprehensive view of the company's reputation and employee morale.
+  expected_output: >
+    A detailed analysis of social sentiment and corporate reputation for each company including:
+    - Employee satisfaction scores and key comments
+    - Social media sentiment analysis
+    - Workplace culture insights
+    - Impact of layoffs on company reputation
+    - Corporate social responsibility activities
+    - Product and service review summaries
+    Format in markdown with clear sections per company.
+  agent: social_sentiment_analyst
+  output_file: outputs/social_sentiment.md
+
 market_data_task:
   description: >
     Using yfinance, collect and analyze stock market data for {company_names}:
