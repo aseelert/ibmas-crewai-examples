@@ -1,83 +1,59 @@
-```markdown
-## IBM
-
-### Latest News
-- [Think 2024 news - IBM Newsroom](https://newsroom.ibm.com/think-2024): IBM announced updates to its watsonx platform, enhancing data and automation capabilities.
-- [IBM Stock Slips on Disappointing Consulting Revenue - CNBC](https://www.cnbc.com/2024/10/23/ibm-earnings-q3-2024.html): Revenue grew by 2% in Q3 2024 at constant currency.
-- [IBM Misses Third-Quarter Revenue Estimates as Consulting Drags - Reuters](https://www.reuters.com/technology/ibm-beats-third-quarter-profit-estimates-software-strength-2024-10-23/): Consulting segment faced difficulties leading to missed revenue estimates.
-- [IBM Starts New Round Of Layoffs - CRN](https://www.crn.com/news/channel-news/2024/ibm-starts-new-round-of-layoffs): A new round of layoffs was initiated amidst restructuring efforts.
-- [CEO Arvind Krishna Kicks Off IBM Think 2024 - SiliconANGLE](https://siliconangle.com/2024/05/21/ibm-ceo-arvind-krishna-kicks-off-ibm-think-2024-highlights/): Highlights from the Think 2024 event included new AI initiatives.
-
-### Quarterly Results
-- **Q3 2024**:
-   - Revenue missed estimates largely due to weak performance in the consulting segment.
-   - Software segment saw a 10% increase in revenue.
-   
-- **Q2 2024**:
-   - Reported a better-than-expected second quarter with significant growth in AI-related business.
-
-### Annual Reports
-- **2023 Annual Report**: Expected performance improvement in cloud and AI sectors but details await publication.
-
-### Major Announcements
-- Partnership with AMD for deploying AI accelerators on IBM Cloud.
-
-### Market Analyst Reports
-- Analysts project IBM will benefit from robust demand in AI technologies despite challenges in consulting services.
+## Comprehensive News Analysis for IBM, Infosys, and Accenture (2024)
 
 ---
 
-## Infosys
+### IBM
 
-### Latest News
-- [Ethisphere Recognizes Infosys Among 2024 World's Most Ethical Companies](https://www.infosys.com/newsroom/press-releases.html): Infosys has been acknowledged for ethical practices for a fourth consecutive year.
-- [Infosys Cuts Jobs Amid Pressure on H-1B Visa Sponsorship](https://www.business-standard.com/finance/personal-finance/us-jobs-decline-amazon-infosys-others-cut-h-1b-visa-sponsorship-in-2024-124112000736_1.html): Reduced sponsorships in response to job market trends.
-- [Infosys Dividend Announcement - Economic Times](https://economictimes.indiatimes.com/infosys-ltd/stocksupdate/companyid-10960.cms): Declared a 420% dividend per equity share for FY 2024-25.
-- [Q2 2024 Results - Economic Times](https://m.economictimes.com/markets/stocks/live-blog/infosys-ltd-q2-results-infy-q2-fy25-revenue-earning-profit-loss-dividend-today-report-date-time-17-october-2024/liveblog/114303481.cms): Noted a net profit of Rs. 6,506 crore in Q2 FY25.
-- [Recognition of AI-driven Efforts](https://www.financialexpress.com/business/investing-abroad-accenture-fans-it-industry-spending-gloom-with-annual-forecast-cut-3433066/): Acknowledged for its advancements in AI and operational improvements.
+#### Latest Developments and Announcements
+- **Nov 21, 2024**: IBM and Pasqal Plan to Expand Quantum-Centric Supercomputing Initiative. [IBM Newsroom](https://newsroom.ibm.com/2024-11-21-ibm-and-pasqal-plan-to-expand-quantum-centric-supercomputing-initiative)
+- **Nov 18, 2024**: Announced collaboration with AMD for cloud services. [IBM Newsroom](https://newsroom.ibm.com/campaign?l=5&ref=aroundscifi.us&o=115)
+- **Nov 14, 2024**: Released sustainability report; most businesses plan to invest in AI for sustainability. [IBM Newsroom](https://newsroom.ibm.com/2024-11-12-new-ibm-report-shows-strong-tailwinds-behind-corporate-investment-in-ai-for-sustainability-but-ambitions-dont-yet-match-actions)
 
-### Quarterly Results
-- **Q2 2024**:
-   - Net profit reported at Rs. 6,506 crore, a 4.7% rise YoY with an anticipated operating margin of 20-22%.
-   
-- **Q1 2024**:
-   - Net profit of Rs. 6,368 crore, up by 7.1% YoY.
+#### Key Financial Metrics: Quarterly Results
+- **Q3 2024**: Revenue of $14.4 billion. Revenue growth of 2% year-on-year despite missing estimates. [CNBC](https://www.cnbc.com/2024/10/23/ibm-earnings-q3-2024.html)
+- **Q2 2024**: Thirteen percent growth in software sales, driven primarily by Red Hat. [Bloomberg](https://www.bloomberg.com/news/articles/2024-07-24/ibm-q2-earnings-report-2024)
 
-### Annual Reports
-- **2023 Annual Report**: Anticipated to showcase a solid growth outlook, especially in AI and digital transformation.
+#### Major Strategic Initiatives
+- Launched advanced quantum computers aiming for quantum advantage. [IBM Newsroom](https://newsroom.ibm.com/2024-11-13-ibm-launches-its-most-advanced-quantum-computers)
+- Workforce optimization through AI with indicated layoffs. [CRN](https://www.crn.com/news/channel-news/2024/ibm-starts-new-round-of-layoffs)
 
-### Major Announcements
-- New AI-focused collaborative initiatives with academic institutions, launching digital platforms.
-
-### Market Analyst Reports
-- Analysts project consistent growth for Infosys as they enhance service offerings in digital and AI sectors.
+#### Market Perspectives
+- IBM's forecasts annual revenue growth is slightly higher than Wall Street expectations for 2024. [Reuters](https://www.reuters.com/technology/ibm-forecasts-annual-revenue-growth-above-estimates-ai-adoption-rush-2024-01-24)
 
 ---
 
-## Accenture
+### Infosys
 
-### Latest News
-- [Opening of Accenture Center for Advanced AI Kyoto](https://newsroom.accenture.com/news): A new facility dedicated to AI advancements was inaugurated.
-- [Accenture Invests in Cresta for AI Efficiency](https://newsroom.accenture.com/news/2024/accenture-invests-in-cresta-to-improve-efficiency-and-productivity-in-contact-centers-with-generative-ai): Focus on enhancing contact centers with generative AI solutions.
-- [Expansion of Generative AI-Powered Cybersecurity](https://newsroom.accenture.com/news/2024/accenture-expands-generative-ai-powered-cybersecurity-services-and-capabilities-to-accelerate-clients-resilience-and-reinvention): New capabilities aimed at boosting business resilience through AI.
-- [Accenture Reports Fourth-Quarter and Full-Year Fiscal 2024 Results](https://finance.yahoo.com/news/accenture-reports-fourth-quarter-full-103900911.html): Total new bookings reached $20.1 billion for the quarter.
-- [Promotion Delays Announced - CRN](https://www.crn.com/news/channel-news/2024/accenture-delays-promotions-after-lowered-outlook): Promotions across the board have been postponed.
+#### Latest Developments and Announcements
+- **Oct 17, 2024**: Infosys announced quarterly results showing a 5% increase in net profit. [LiveMint](https://www.livemint.com/companies/company-results/infosys-q2-results-preview-revenue-growth-seen-at-3-7-on-deal-ramp-ups-pat-may-rise-5-8-qoq-11729073171710.html)
+- **Nov 2024**: Ongoing initiatives emphasize AI adoption and innovation. [Infosys Newsroom](https://www.infosys.com/newsroom/features/2024/hackwithinfy-2024.html)
 
-### Quarterly Results
-- **Q4 2024**:
-   - New bookings of $20.1 billion and full-year revenue growth of 13% noted.
-   
-- **Previous Quarter**:
-   - Reported strong AI deal closures totaling $2 billion for the fiscal year.
+#### Key Financial Metrics: Quarterly Results
+- **Q2 2024**: Revenue was reported at ₹40,986 crore, reflecting a 5.11% growth year-on-year. [MoneyControl](https://www.moneycontrol.com/news/business/earnings/infosys-consolidated-september-2024-net-sales-at-rs-40986-00-crore-up-5-11-y-o-y-12847434.html)
 
-### Annual Reports
-- **2023 Annual Report**: Highlights expected in AI-driven consulting practices, amid challenges faced earlier in the fiscal year.
-
-### Major Announcements
-- New generative AI collaborations with multiple corporate partners to enhance service delivery.
-
-### Market Analyst Reports
-- Financial forecasts predict an increase in AI-driven income streams despite the uncertain economic climate impacting consulting revenues.
+#### Major Strategic Initiatives
+- Infosys expanded partnerships with local governments to support digital learning initiatives. [Times of India](https://www.timesofindia.indiatimes.com/).
+  
+#### Market Perspectives
+- Infosys returning to growth trajectory in the IT sector by adjusting its revenue guidance amidst improving BFSI (Banking, Financial Services, and Insurance) segment performance. [Economic Times](https://economictimes.indiatimes.com/infosys-ltd/stocksupdate/companyid-10960.cms)
 
 ---
-```
+
+### Accenture
+
+#### Latest Developments and Announcements
+- **Oct 26, 2024**: Accenture reports Q4 earnings, showing an increase in new bookings totaling $20.1 billion for the quarter. [Business Wire](https://www.businesswire.com/news/home/20240926721611/en/Accenture-Reports-Fourth-Quarter-and-Full-Year-Fiscal-2024-Results)
+- **Nov 14, 2024**: Announced a partnership with NVIDIA for generative AI solutions. [CIO](https://www.cio.com/article/3544711/accenture-nvidia-deal-a-first-peek-into-the-new-world-of-genai-centric-strategies.html)
+
+#### Key Financial Metrics: Quarterly Results
+- **Q4 2024**: Reported revenue of $16.40 billion, up 3% year-on-year. Operating income of $2.38 billion, reflecting favorable cost management strategies. [AlphaStreet](https://news.alphastreet.com/main-takeaways-from-accentures-acn-q4-2024-earnings-report/)
+
+#### Major Strategic Initiatives
+- Significant investments in AI-related projects, showcasing an upward trend in technology spending. [Daily Host News](https://www.dailyhostnews.com/accenture-ignites-ai-innovation-unveils-strategic-acquisitions-and-collaborative-ventures)
+
+#### Market Perspectives
+- Accenture anticipates flat revenue growth due to economic pressures yet improved bookings in AI and consulting arm. [Reuters](https://www.reuters.com/technology/accenture-cuts-annual-revenue-forecast-2024-03-21/)
+
+---
+
+This comprehensive report captures the latest news, financial results, market perspectives, and strategic initiatives for IBM, Infosys, and Accenture. For each company, significant developments and key metrics from earnings reports have been organized and presented clearly.
