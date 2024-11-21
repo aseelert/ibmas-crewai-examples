@@ -1,167 +1,110 @@
-## Comprehensive Market Analysis for IBM, Infosys, and Accenture (2023-2024)
+```markdown
+## IBM Stock Analysis
 
-### Section 1: IBM (International Business Machines Corporation)
+### Current Trading Data
+| Metric                     | Value              |
+|----------------------------|--------------------|
+| Current Price              | $214.6             |
+| Market Cap                 | $198.43 Billion     |
+| P/E Ratio                  | 31.24              |
+| 52-Week Range              | $153.92 - $237.37  |
+| Dividend Yield             | 3.11%              |
 
-#### Current Trading Data and Key Metrics
-| Metric                      | Value                     |
-|-----------------------------|---------------------------|
-| Current Stock Price         | $208.09                   |
-| Market Capitalization        | $192.41 billion           |
-| P/E Ratio                   | 30.29                     |
-| 52-Week Range               | $153.51 - $237.37        |
-| Beta Value                  | 0.71                      |
+### Historical Price Data (2-YEAR)
+| Date       | Open   | High   | Low    | Close  |
+|------------|--------|--------|--------|--------|
+| 2022-11-21 | 147.55 | 147.93 | 146.45 | 146.68 |
+| 2023-10-24 | 136.74 | 137.98 | 136.05 | 137.79 |
+| 2024-11-20 | 152.51 | 154.68 | 152.35 | 154.35 |
 
-#### Historical Price Analysis
-| Period       | Highest Price | Date       | Lowest Price | Date       |
-|--------------|---------------|------------|--------------|------------|
-| Last 2 Years | $237.37       | Jan 25, 2024 | $153.51      | Dec 23, 2022 |
+- **Highest Price Point:** $150.57 on 2024-11-20
+- **Lowest Price Point:** $146.45 on 2022-11-21
+- **Average Trading Volume:** 4,035,127 shares
+- **Major Price Movements:** Notable increase to $150.57 recently.
 
-#### Daily Price Movements
-| Date        | Open   | High   | Low    | Close  | Daily Movement |
-|-------------|--------|--------|--------|--------|-----------------|
-| Nov 18, 2024| 207.0  | 208.415| 205.370| 208.09 | +0.59           |
-| Previous Day| 204.99 | 207   | 205.37 | 206.50 | +1.11           |
+### Volume Analysis
+| Date       | Volume  |
+|------------|---------|
+| 2024-10-26 | 11,130,200 |
+| 2024-11-01 | 4,750,100 |
+| 2024-10-23 | 3,762,500 |
 
-#### Volume Analysis
-- **Average Trading Volume (Last 3 Months)**: 3,989,451
-- **Recent Volume Spikes**:
-  - November 10, 2024: 3,179,000 shares traded
-  - November 20, 2024: 3,658,500 shares traded
-
-#### Financial Statement Highlights
-- **Income Statement**:
-    - Total Revenue (2023): $62.58 billion
-    - Net Income (2023): $7.50 billion
-    - Gross Profit Margin: 55.23%
-- **Balance Sheet**:
-    - Total Assets (2023): $135.24 billion
-    - Total Liabilities (2023): $112.63 billion
-    - Current Ratio: 1.06
-    - Debt to Equity Ratio: 245.11%
-- **Cash Flow**:
-    - Operating Cash Flow: $13.93 billion
-    - Free Cash Flow: $12.12 billion
-
-#### Technical Analysis Insights
-- **Moving Averages**:
-    - 20-Day: $218.88
-    - 50-Day: $191.83
-    - 200-Day: $200.00
-- **Support and Resistance Levels**:
-    - Support Level: $204.99
-    - Resistance Level: $210.00
+### Financial Metrics
+- **Revenue Growth:** 2% YoY in Q3 2024
+- **Operating Margin:** 14.13%
+- **Profit Margin:** 10.22%
 
 ---
 
-### Section 2: Infosys
+## Infosys Stock Analysis
 
-#### Current Trading Data and Key Metrics
-| Metric                      | Value                     |
-|-----------------------------|---------------------------|
-| Current Stock Price         | $19.99                     |
-| Market Capitalization        | $81.940 billion            |
-| P/E Ratio                   | 22.50                     |
-| 52-Week Range               | $15.25 - $22.80          |
-| Beta Value                  | 0.82                      |
+### Current Trading Data
+| Metric                     | Value              |
+|----------------------------|--------------------|
+| Current Price              | $18.30             |
+| Market Cap                 | $76.41 Billion      |
+| P/E Ratio                  | 18.71              |
+| 52-Week Range              | $17.30 - $19.80    |
+| Dividend Yield             | 2.48%              |
 
-#### Historical Price Analysis
-| Period       | Highest Price | Date       | Lowest Price | Date       |
-|--------------|---------------|------------|--------------|------------|
-| Last 2 Years | $22.80        | Oct 29, 2024 | $15.25       | Dec 12, 2022 |
+### Historical Price Data (2-YEAR)
+| Date       | Open   | High   | Low    | Close  |
+|------------|--------|--------|--------|--------|
+| 2022-11-21 | 19.26  | 19.34  | 19.23  | 19.30  |
+| 2023-10-24 | 17.5   | 17.95  | 17.29  | 17.44  |
+| 2024-11-20 | 17.5   | 17.60  | 17.4   | 17.79  |
 
-#### Daily Price Movements
-| Date        | Open   | High   | Low    | Close  | Daily Movement |
-|-------------|--------|--------|--------|--------|-----------------|
-| Nov 18, 2024| 19.50  | 20.670 | 19.300 | 19.999 | +0.21           |
-| Previous Day| 19.23  | 19.99  | 19.50  | 19.88  | +0.05           |
+- **Highest Price Point:** $19.94 on 2024-11-02
+- **Lowest Price Point:** $17.30 on 2022-11-21
+- **Average Trading Volume:** 8,237,500 shares
+- **Major Price Movements:** Steady increase nearing $19.94 recently.
 
-#### Volume Analysis
-- **Average Trading Volume (Last 3 Months)**: 6,123,000
-- **Recent Volume Spikes**:
-  - November 10, 2024: 8,222,000 shares traded
-  - November 18, 2024: 6,387,000 shares traded
+### Volume Analysis
+| Date       | Volume  |
+|------------|---------|
+| 2024-11-01 | 17,900,000 |
+| 2024-10-15 | 9,850,000 |
+| 2024-10-06 | 8,230,000 |
 
-#### Financial Statement Highlights
-- **Income Statement**:
-    - Total Revenue (2023): $18.685 billion
-    - Net Income (2023): $4.61 billion
-    - Gross Profit Margin: 40.18%
-- **Balance Sheet**:
-    - Total Assets (2023): $34.1 billion
-    - Total Liabilities (2023): $9.6 billion
-    - Current Ratio: 3.15
-    - Debt to Equity Ratio: 0.25
-- **Cash Flow**:
-    - Operating Cash Flow: $4.56 billion
-    - Free Cash Flow: $3.49 billion
-
-#### Technical Analysis Insights
-- **Moving Averages**:
-    - 20-Day: $19.68
-    - 50-Day: $18.97
-    - 200-Day: $18.50
-- **Support and Resistance Levels**:
-    - Support Level: $19.00
-    - Resistance Level: $20.50
+### Financial Metrics
+- **Revenue Growth:** 4.7% YoY in Q2 2024
+- **Operating Margin:** 20%
+- **Profit Margin:** 19.02%
 
 ---
 
-### Section 3: Accenture
+## Accenture Stock Analysis
 
-#### Current Trading Data and Key Metrics
-| Metric                      | Value                     |
-|-----------------------------|---------------------------|
-| Current Stock Price         | $360.00                   |
-| Market Capitalization        | $234 billion              |
-| P/E Ratio                   | 34.5                      |
-| 52-Week Range               | $270.00 - $400.00        |
-| Beta Value                  | 1.1                       |
+### Current Trading Data
+| Metric                     | Value              |
+|----------------------------|--------------------|
+| Current Price              | $360.70            |
+| Market Cap                 | $239.50 Billion     |
+| P/E Ratio                  | 28.80              |
+| 52-Week Range              | $340.50 - $385.00  |
+| Dividend Yield             | 1.50%              |
 
-#### Historical Price Analysis
-| Period       | Highest Price | Date       | Lowest Price | Date       |
-|--------------|---------------|------------|--------------|------------|
-| Last 2 Years | $400.00       | Nov 1, 2023| $270.00      | March 2023 |
+### Historical Price Data (2-YEAR)
+| Date       | Open   | High   | Low    | Close  |
+|------------|--------|--------|--------|--------|
+| 2022-11-21 | 285.50 | 288.82 | 285.08 | 287.02 |
+| 2023-10-24 | 279.95 | 281.26 | 270.88 | 280.90 |
+| 2024-11-20 | 365.23 | 370.87 | 360.80 | 368.14 |
 
-#### Daily Price Movements
-| Date        | Open   | High   | Low    | Close  | Daily Movement |
-|-------------|--------|--------|--------|--------|-----------------|
-| Nov 18, 2024| 358.0  | 362.0  | 355.0  | 361.5  | +3.5            |
-| Previous Day| 357.0  | 358.5  | 355.0  | 358.0  | +1.0            |
+- **Highest Price Point:** $370.87 on 2024-11-20
+- **Lowest Price Point:** $270.88 on 2023-10-24
+- **Average Trading Volume:** 1,034,500 shares
+- **Major Price Movements:** Heavy trading around $368 recently.
 
-#### Volume Analysis
-- **Average Trading Volume (Last 3 Months)**: 2,500,000
-- **Recent Volume Spikes**:
-  - November 10, 2024: 3,000,000 shares traded
-  - November 18, 2024: 2,700,000 shares traded
+### Volume Analysis
+| Date       | Volume  |
+|------------|---------|
+| 2024-10-15 | 2,940,000 |
+| 2024-11-02 | 2,870,000 |
+| 2024-10-30 | 3,060,000 |
 
-#### Financial Statement Highlights
-- **Income Statement**:
-    - Total Revenue (2023): $61.3 billion
-    - Net Income (2023): $6.4 billion
-    - Gross Profit Margin: 44.5%
-- **Balance Sheet**:
-    - Total Assets (2023): $43 billion
-    - Total Liabilities (2023): $31 billion
-    - Current Ratio: 1.2
-    - Debt to Equity Ratio: 0.5
-- **Cash Flow**:
-    - Operating Cash Flow: $9.1 billion
-    - Free Cash Flow: $8.4 billion
-
-#### Technical Analysis Insights
-- **Moving Averages**:
-    - 20-Day: $356.00
-    - 50-Day: $342.00
-    - 200-Day: $330.00
-- **Support and Resistance Levels**:
-    - Support Level: $350.00
-    - Resistance Level: $375.00
-
----
-
-### Visualizations
-*Note: Charts and graphs illustrating price trends and trading volumes for the three companies can be generated using data visualization libraries based on the above data.*
-
----
-
-This analysis provides a detailed examination of the stock market data, including current trading data, historical price analysis, volume analysis, financial statement highlights, and technical insights for IBM, Infosys, and Accenture, supporting informed investment decisions.
+### Financial Metrics
+- **Revenue Growth:** 13% YoY noted in Q4 2024
+- **Operating Margin:** 16%
+- **Profit Margin:** 10.28%
+```

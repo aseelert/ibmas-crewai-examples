@@ -242,7 +242,12 @@ class FinancialAnalysisCrew:
     def social_sentiment_analyst(self) -> Agent:
         return Agent(
             config=self.agents_config['social_sentiment_analyst'],
-            tools=[search_tool, scrape_website_tool],
+            tools=[
+                search_tool,
+                scrape_website_tool,
+                DirectoryReadTool(directory=data_output_dir),
+                FileReadTool()
+            ],
             verbose=True
         )
 
@@ -303,6 +308,11 @@ class FinancialAnalysisCrew:
     def comparison_report_task(self) -> Task:
         return Task(
             config=self.tasks_config['comparison_report_task']
+        )
+    @task
+    def social_sentiment_task(self) -> Task:
+        return Task(
+            config=self.tasks_config['social_sentiment_task']
         )
 
     @crew
