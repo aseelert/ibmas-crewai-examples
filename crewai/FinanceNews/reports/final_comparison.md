@@ -1,1 +1,7 @@
-This comprehensive report contains detailed corporate analysis and investment recommendations for IBM, Infosys, and Accenture encompassing various qualitative and quantitative factors.
+Comprehensive Comparison Report
+
+- **IBM**: Hold
+- **Infosys**: Buy
+- **Accenture**: Buy
+
+This structured analysis should guide investment decisions in the technology sector while considering the unique strengths and market dynamics of each company.
