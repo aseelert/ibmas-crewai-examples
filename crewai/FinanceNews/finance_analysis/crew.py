@@ -303,18 +303,21 @@ class FinancialAnalysisCrew:
         return Task(
             config=self.tasks_config['event_impact_task']
         )
-
-    @task
-    def comparison_report_task(self) -> Task:
-        return Task(
-            config=self.tasks_config['comparison_report_task']
-        )
     @task
     def social_sentiment_task(self) -> Task:
         return Task(
             config=self.tasks_config['social_sentiment_task']
         )
-
+    @task
+    def captain_future_task(self) -> Task:
+        return Task(
+            config=self.tasks_config['future_prediction_task']
+        )
+    @task
+    def comparison_report_task(self) -> Task:
+        return Task(
+            config=self.tasks_config['comparison_report_task']
+        )
     @crew
     def crew(self) -> Crew:
         """Creates the Financial Analysis crew"""
